@@ -3,7 +3,7 @@ steps:
 ```
 pipenv install Pyro5
 
-pipenv run python -m Pyro5.naming
+pipenv run python -m Pyro5.nameserver
 
 pipenv run python rental.py
 
